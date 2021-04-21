@@ -1,0 +1,13 @@
+name: test_app
+version: 0.1.0
+
+authors:
+  - motty93 <rdwbocungelt5@gmail.com>
+
+targets:
+  test_app:
+    main: src/test_app.cr
+
+crystal: 1.0.0
+
+license: MIT
